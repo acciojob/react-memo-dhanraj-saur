@@ -24,5 +24,4 @@ const Memo = ()=>{
         </div>
     )
 }
-
 export default Memo;
